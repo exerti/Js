@@ -2,6 +2,7 @@
 
 https://blog.csdn.net/weixin_44784401/article/details/131782238
 
+```
 ├─package.json
 ├─README.md
 ├─src
@@ -28,3 +29,5 @@ https://blog.csdn.net/weixin_44784401/article/details/131782238
 |  |    |        ├─手写apply.js
 |  |    |        ├─手写bind.js
 |  |    |        └手写call.js
+
+```
